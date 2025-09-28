@@ -1,32 +1,32 @@
-Got it 👍 Here’s a **ready-to-use README.md** file for your repo **HTML_EXAM**:
+
 
 ````markdown
-# 🌐 HTML_EXAM
+🌐 HTML_EXAM
 
-This repository contains my project **"About Myself" webpage**, created using **HTML and CSS**.  
-It was developed as part of an **HTML Coding Competition**, where I proudly secured **1st position** in the academic year **2022–2023**. 🏆  
+This repository contains my project "About Myself" webpage, created using HTML and CSS.  
+It was developed as part of an HTML Coding Competition, where I proudly secured 1st position in the academic year 2022–2023. 🏆  
 
 ---
 
 ## 📖 Project Overview
 The project is a simple and elegant webpage that displays:
-- 👤 **Personal Information** (Name, Family Details)  
-- ✍️ **Introduction** (Education background, village, family)  
-- 📊 **Academic Performance** (8th class results in a styled table)  
+- 👤 Personal Information (Name, Family Details)  
+- ✍️ Introduction (Education background, village, family)  
+- 📊 Academic Performance (8th class results in a styled table)  
 
 ---
 
 ## 🎨 Features
-- Clean, user-friendly design with **modern CSS styling**  
-- Use of **semantic HTML5 tags** (header, section, table, ul/li)  
-- **Responsive layout** with professional look  
-- Styled **table with captions and headers**  
+- Clean, user-friendly design with modern CSS styling 
+- Use of semantic HTML5 tags (header, section, table, ul/li)  
+- Responsive layout with professional look  
+- Styled table with captions and headers  
 
 ---
 
 ## 🛠️ Technologies Used
-- **HTML5**  
-- **CSS3**  
+- HTML5  
+- CSS3
 
 ---
 
@@ -42,7 +42,7 @@ The project is a simple and elegant webpage that displays:
 
 ## 🏅 Achievement
 
-* 🥇 Secured **1st place** in the **HTML Coding Competition (2022–2023)** with this project.
+ 🥇 Secured 1st place in the HTML Coding Competition (2022–2023) with this project.
 
 ---
 
@@ -53,9 +53,7 @@ The project is a simple and elegant webpage that displays:
 
 ---
 
-### ✨ This project represents my early steps in **web development** and inspires me to keep learning and building more projects!
+### ✨ This project represents my early steps in web development and inspires me to keep learning and building more projects!
 
 ```
 
-Would you like me to also **add badges** (like HTML5, CSS3, GitHub stars, etc.) at the top of the README to make it look more professional?
-```
